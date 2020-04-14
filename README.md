@@ -1,3 +1,3 @@
-# connmysql
+# Database Mahasiswa
 
-Database Mahasiswa
+connmysql
